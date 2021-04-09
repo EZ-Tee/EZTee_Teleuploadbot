@@ -1,3 +1,1 @@
-telethon
-asyncio
-aiohttp
+pyrogram
