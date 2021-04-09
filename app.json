@@ -17,27 +17,27 @@
     "APIID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": "",
-      "required": true
+      "required": false
     },
     "APIHASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": "",
-      "required": true
+      "required": false
     },
     "BOTTOKEN": {
       "description": "Get this token from @BotFather",
       "value": "",
-      "required": true
+      "required": false
     },
     "USERNAME": {
       "description": "Username of your bot",
       "value": "",
-      "required": true
+      "required": false
     },
     "DOWNLOADPATH": {
       "description": "Download path of bot (don't change this value)",
       "value": "Downloads/",
-      "required": true
+      "required": false
     }
   },
   "buildpacks": [{
