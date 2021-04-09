@@ -1,4 +1,4 @@
-#𝗧𝗲𝗹𝗲𝗨𝗽𝗹𝗼𝗮𝗱 𝗕𝗼𝘁
+# 𝗧𝗲𝗹𝗲𝗨𝗽𝗹𝗼𝗮𝗱 𝗕𝗼𝘁
 
 <p align="center">
     <a href="https://github.com/Ez-Tee/EZTee_Teleuploadbot"><img src="https://img.shields.io/github/last-commit/Ez-Tee/EZTee_Teleuploadbot?label=Last%20Commit&style=flat-square&logo=github&color=F10070" alt="Commit" /></a>
@@ -9,7 +9,7 @@
 
 ▷Me🙂 <a href="https://t.me/Ez_tee" alt="Me♥"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-𝗠𝗲♥-blue" /> </a>
 
-##A telegram bot made using telethon library. Can be found on telegram as [@ETTeleUploadBot](https://t.me/ETTeleUploadBot)
+## A telegram bot made using telethon library. Can be found on telegram as [@ETTeleUploadBot](https://t.me/ETTeleUploadBot)
 
 ### Features
 
